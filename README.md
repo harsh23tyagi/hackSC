@@ -23,7 +23,7 @@ In the near future augmenting reality shall take over our lives not just in the 
 - The repo contains the AR module which can only be opened in the AR studio, which creates the entire front end and controls for the augmenting reality
 - Other than that, the module contains a node.js application which runs the entire backend.
 - The code is again not that good as it was made as a hack, but the idea is
-- There is also a python file that is not in this repo which controlled the LED on Raspberry Pi using the MQTT subscriber module
+- There is also a python file in this repo (mqtt.py) which controlled the LED on Raspberry Pi using the MQTT subscriber module- It has to be put in the raspberry Pi
 
 ## Demo Video of controlling Tesla using Augmenting Reality:
 https://devpost.com/software/bsmart
