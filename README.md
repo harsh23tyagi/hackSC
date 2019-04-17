@@ -1,7 +1,7 @@
 # Prologue
 bsmARt- Smart Augmenting Reality - A picture of the future
 
-This porject was a 26 hours hack in the HackSC 2019 hackathon which won the **Facebook's Favorite Product award**.
+This project was a 26 hours hack in the HackSC 2019 hackathon which won the **Facebook's Favorite Product award**.
 This works on the mysteries of Internet of Things and controlling those networking protocols via Augmenting Reality.
 
 
